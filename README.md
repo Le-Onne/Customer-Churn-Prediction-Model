@@ -6,35 +6,34 @@ This project uses machine learning to predict customer churn based on behavioral
 
 ## 📊 Project Overview
 
-- **Goal:** Classify customers as churned or not churned based on various features
-- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
-- **Modeling Techniques:** Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Naive Bayes
+- **Goal:** Classify customers as churned or not churned based on various features  
+- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
+- **Modeling Techniques:** Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Naive Bayes  
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, ROC Curve, AUC
 
 ---
 
 ## 📁 Project Structure
 
-Customer-Churn-Prediction-Model/
-│
-├── Customer-Churn-Prediction-Model-Project.ipynb # Main notebook
-├── README.md # Project summary and instructions
+Customer-Churn-Prediction-Model/  
+├── Customer-Churn-Prediction-Model-Project.ipynb   # Main notebook  
+├── README.md                                       # Project summary and instructions  
 
 ---
 
 ## 📦 Libraries Used
 
-- pandas
-- matplotlib
-- seaborn
+- pandas  
+- matplotlib  
+- seaborn  
 - scikit-learn
 
 ---
 
 ## 🔍 Dataset
 
-- **Source:** Simulated or real-world telecom/e-commerce data
-- **Target Column:** `Churn` (1 = Yes, 0 = No)
+- **Source:** Simulated or real-world telecom/e-commerce data  
+- **Target Column:** `Churn` (1 = Yes, 0 = No)  
 
 _Note: You may need to add the dataset to a `data/` folder if not already included._
 
@@ -42,15 +41,15 @@ _Note: You may need to add the dataset to a `data/` folder if not already includ
 
 ## 🚀 How to Run
 
-1. Clone the repository
-2. Open the Jupyter Notebook (`.ipynb`)
+1. Clone the repository  
+2. Open the Jupyter Notebook (`.ipynb`)  
 3. Run all cells to:
-   - Explore and visualize data
-   - Train classification models
+   - Explore and visualize data  
+   - Train classification models  
    - Evaluate performance
 
-```bash
 git clone https://github.com/Le-Onne/Customer-Churn-Prediction-Model.git
+
 
 ---
 
@@ -66,7 +65,7 @@ git clone https://github.com/Le-Onne/Customer-Churn-Prediction-Model.git
 ## 📊 Visualizations
 
 ### 📌 Pie Chart  
-- Churn distribution (MVP vs Non-MVP)
+- Churn distribution
 
 ### 📌 Histograms  
 - Feature distribution by churn status
@@ -97,4 +96,3 @@ git clone https://github.com/Le-Onne/Customer-Churn-Prediction-Model.git
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
