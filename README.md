@@ -30,14 +30,6 @@ Customer-Churn-Prediction-Model/
 
 ---
 
-## 🔍 Dataset
-
-- **Source:** Simulated or real-world telecom/e-commerce data  
-- **Target Column:** `Churn` (1 = Yes, 0 = No)  
-
-_Note: You may need to add the dataset to a `data/` folder if not already included._
-
----
 
 ## 🚀 How to Run
 
